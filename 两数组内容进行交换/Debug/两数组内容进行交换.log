@@ -1,0 +1,4 @@
+﻿  源.cpp
+g:\btbulushipin\qiaodaoma\两数组内容进行交换\两数组内容进行交换\源.cpp(24): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  两数组内容进行交换.vcxproj -> G:\BTbulushipin\qiaodaoma\两数组内容进行交换\Debug\两数组内容进行交换.exe
+  两数组内容进行交换.vcxproj -> G:\BTbulushipin\qiaodaoma\两数组内容进行交换\Debug\两数组内容进行交换.pdb (Partial PDB)
